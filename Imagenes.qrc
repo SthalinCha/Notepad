@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>../../escritura.png</file>
+        <file>../../pegar.png</file>
+        <file>../../tijeras.png</file>
+        <file>../../copiar.png</file>
+        <file>../../borrar.png</file>
+        <file>../../salvado.png</file>
+        <file>../../abrir-correo.png</file>
+        <file>../../registro.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
